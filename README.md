@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Web Development](https://github.com/kavyansh18/webdev-work)
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **kavyansh2027@gmail.com**
 
