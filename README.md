@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Web Development](https://github.com/kavyansh18/webdev-work)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **kavyansh2027@gmail.com**
 
