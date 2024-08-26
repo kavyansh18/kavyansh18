@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_kavyansh" target="blank"><img src="https://img.shields.io/twitter/follow/the_kavyansh?logo=twitter&style=for-the-badge" alt="the_kavyansh" /></a> </p>
 
-- 🔭 I’m currently working on [Web Development]
+- 🔭 I’m currently working on Web Development
 
 - 🌱 I’m currently learning **Next.js**
 
