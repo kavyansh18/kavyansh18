@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kavyansh Kumar</h1>
 <h3 align="center">Turning ideas into reality through code 💻</h3>
-<h2 align="center"> <Make it! > </Make></h2>
+<h2 align="center"> <Make it!> </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyansh18&label=Profile%20views&color=0e75b6&style=flat" alt="kavyansh18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavyansh18" alt="kavyansh18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/the_kavyansh" target="blank"><img src="https://img.shields.io/twitter/follow/the_kavyansh?logo=twitter&style=for-the-badge" alt="the_kavyansh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xkavyansh" target="blank"><img src="https://img.shields.io/twitter/follow/the_kavyansh?logo=twitter&style=for-the-badge" alt="the_kavyansh" /></a> </p>
 
 - 🔭 I’m currently working on Web Development
 
