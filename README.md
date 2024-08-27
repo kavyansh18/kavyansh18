@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavyansh18" alt="kavyansh18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/0xkavyansh" target="blank"><img src="https://img.shields.io/twitter/follow/the_kavyansh?logo=twitter&style=for-the-badge" alt="the_kavyansh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xkavyansh" target="blank"><img src="https://img.shields.io/twitter/follow/the_kavyansh?logo=twitter&style=for-the-badge" alt="0xkavyansh" /></a> </p>
 
 - 🔭 I’m currently working on Web Development
 
