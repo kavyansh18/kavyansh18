@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Kavyansh">
  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnikethDeb2004&label=Profile%20views&color=0e75b6&style=flat" alt="AnikethDeb2004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyansh18&label=Profile%20views&color=0e75b6&style=flat" alt="kavyansh18" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
