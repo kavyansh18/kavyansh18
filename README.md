@@ -16,7 +16,7 @@
 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,appwrite,c,cpp,express,java,mongodb,mysql,nodejs,postgres,vite,postman" />
-
+<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyansh18&" alt="kavyansh" /></p>
