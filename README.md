@@ -1,11 +1,6 @@
 <h1 align="center">GM, Kavyansh here</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Kavyansh">
- </p>
 
 <h3 align="left">Connect with me:</h3>
 
