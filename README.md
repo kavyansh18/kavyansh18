@@ -14,9 +14,11 @@
  
  <h3 align="left">Skills:</h3>
 
+<div style="display: flex; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,appwrite,c,cpp,express,java,mongodb,mysql,nodejs,postgres,vite,postman" />
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="200" height="100" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,appwrite,c,cpp,express,java,mongodb,mysql,nodejs,postgres,vite,postman" />
-<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyansh18&" alt="kavyansh" /></p>
