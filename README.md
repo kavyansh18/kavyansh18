@@ -14,10 +14,7 @@
  
  <h3 align="left">Skills:</h3>
 
-<div style="display: flex; align-items: center;">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,appwrite,c,cpp,express,java,mongodb,mysql,nodejs,postgres,vite,postman" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="200" height="100" />
-</div>
 
 
 
