@@ -1,5 +1,5 @@
 <h1 align="center">GM, Kavyansh here</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Web3 Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyansh18&label=Profile%20views&color=0e75b6&style=flat" alt="kavyansh18" /> </p>
 
