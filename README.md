@@ -26,4 +26,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kavyansh18&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavyansh18&bg_color=000000&color=ffffff&line=9e4c98&point=2e2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
