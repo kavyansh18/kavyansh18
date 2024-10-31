@@ -6,16 +6,11 @@
 <h3 align="left">Connect with me:</h3>
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavyansh-kumar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/0xkavyansh) 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kavyansh.in/)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavyansh2027@gmail.com)
-
-
 
  
  <h3 align="left">Skills:</h3>
 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,appwrite,c,cpp,express,java,mongodb,mysql,nodejs,postgres,vite,postman" />
-
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyansh18&" alt="kavyansh" /></p>
