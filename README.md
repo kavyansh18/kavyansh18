@@ -10,7 +10,7 @@
  
  <h3 align="left">Skills:</h3>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,appwrite,c,cpp,express,java,mongodb,mysql,nodejs,postgres,vite,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,appwrite,c,cpp,express,java,mongodb,mysql,nodejs,postgres,vite,postman,solidity" />
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyansh18&" alt="kavyansh" /></p>
