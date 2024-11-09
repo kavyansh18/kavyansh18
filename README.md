@@ -11,7 +11,7 @@
  <h3 align="left">Skills:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,appwrite,c,cpp,express,java,mongodb,mysql,nodejs,postgres,vite,postman,solidity" />
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast" alt="kavyansh" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kavyansh18&theme=dark" alt="GitHub Streak" /></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyansh18&layout=compact&theme=dark" alt="kavyansh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavyansh18&show_icons=true&theme=dark" alt="kavyansh" /></p>
 
