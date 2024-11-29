@@ -1,7 +1,7 @@
 <h1 align="center">GM, Kavyansh here</h1>
 <h3 align="center">Full Stack Web3 Developer</h3>
 
-![Kavyansh](https://github.com/user-attachments/assets/0da39c06-bafa-4e15-8f3b-5c7809a0d47b)
+<img src="https://github.com/user-attachments/assets/0da39c06-bafa-4e15-8f3b-5c7809a0d47b" alt="Kavyansh" style="width: 100%; height: auto;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyansh18&label=Profile%20views&color=0e75b6&style=flat" alt="kavyansh18" /> </p>
 
