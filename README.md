@@ -1,4 +1,4 @@
-<h1 align="center">GM, Kavyansh here</h1>
+<h1 align="center">GM, Myself Kavyansh</h1>
 <h3 align="center">Full Stack Web3 Developer</h3>
 
 <img src="https://github.com/user-attachments/assets/0da39c06-bafa-4e15-8f3b-5c7809a0d47b" alt="Kavyansh" width="100%">
