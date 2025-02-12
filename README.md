@@ -1,8 +1,7 @@
 <h1 align="center">GM, Myself Kavyansh</h1>
 <h3 align="center">Full Stack Web3 Developer</h3>
 
-<img src="https://github.com/user-attachments/assets/0da39c06-bafa-4e15-8f3b-5c7809a0d47b" alt="Kavyansh" width="100%">
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyansh18&label=Profile%20views&color=0e75b6&style=flat" alt="kavyansh18" /> </p>
 
