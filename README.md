@@ -22,4 +22,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kavyansh18&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
