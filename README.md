@@ -1,6 +1,6 @@
 <h1 align="center">GM, Myself Kavyansh</h1>
 <h3 align="center">Blockchain Dev</h3>
-<p align="center">SDE2 @Yap.marketv</p>
+<p align="center">SDE2 @Yap.market</p>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="1100">
 
